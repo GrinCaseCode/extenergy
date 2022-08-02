@@ -761,7 +761,7 @@
 	}
 	.row_steps {
 		margin-bottom: 30px;
-	}
+	} 
 	.steps {
 		padding-bottom: 50px;
 	}
@@ -772,6 +772,7 @@
 	.title-section {
 		font-size: 25px;
 		line-height: 35px;
+		margin-bottom: 20px;
 	}
 	.billbord .title-section {
 		font-size: 23px;
