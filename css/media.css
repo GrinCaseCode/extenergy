@@ -967,7 +967,7 @@
 	.item-news__date {
 		margin-right: -20px;
 	}
-}
+} 
 
 
 /* Custom, iPhone Retina */
@@ -998,7 +998,7 @@
 	.footer__content {
 		display: block !important;
 	}
-	.menu-mobile {
+	.menu-mobile { 
 		display: none !important;
 	}
 }
